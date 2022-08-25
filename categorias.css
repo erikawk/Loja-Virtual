@@ -1,0 +1,12 @@
+.prod{
+    background-color: #ffcbdb;
+    background: 10px 10px 0px 0px;
+    list-style: none;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+img{
+    width: 20%;
+    height: 20%;
+}
